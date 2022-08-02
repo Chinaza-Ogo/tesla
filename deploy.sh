@@ -1,4 +1,3 @@
 delploying java application
-chi 
-ope
-paul
+Deploy python apps
+deploy in the dev env
