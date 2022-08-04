@@ -1,0 +1,8 @@
+- hosts: databases
+  var:
+    password:DevOps@1920
+  username: mylandmark
+  host:
+ tasks:
+ -   name:creat username
+ user:create username
